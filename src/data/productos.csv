@@ -1,4 +1,4 @@
-Vehículo,Marca,Modelo,Tipo de vehículo,Año de fabricación,Kilometraje,Estado,Precio de venta,Fecha de adquisición,Imagen
+Vehiculo,Marca,Modelo,Tipo,AnyoFabricación,Kilometraje,Estado,PrecioVenta,FechaAdquisición,Imagen
 HUZ00059bQ87731,Grove,TMS9000-2,Grúa telescópica,2018,143999,En reparación,92388,2023-01-29,https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731180/Grove_TMS9000-2_fpmteq.jpg
 dXc10152wZ20931,Grove,TMS9000-2,Grúa telescópica,2017,105733,Usado,173523,2023-05-02,https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731180/Grove_TMS9000-2_fpmteq.jpg
 kon88808Mw35384,Fassi,F1150RA.2.28 L616,Grúa articulada,2015,141079,Operativo,88635,2023-10-07,https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731182/Fassi_F1150R_srvz8r.jpg

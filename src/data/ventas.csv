@@ -1,4 +1,4 @@
-ID venta,Vehículo vendido,Cliente,Fecha de venta,Método de pago,Fecha de entrega
+Venta,Producto,Cliente,FechaVenta,MétodoPago,FechaEntrega
 1,HUZ00059bq87731,1,2023-01-15,Tarjeta de crédito,2023-01-18
 2,dXc10152wZ20931,2,2023-02-01,Transferencia bancaria,2023-02-05
 3,kon88808Mw35384,3,2023-03-10,Efectivo,2023-03-12

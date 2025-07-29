@@ -1,4 +1,4 @@
-ID cliente,Nombre,Email,password,Preferencias 
+Usuario,Nombre,Email,password,Preferencias 
 1,Joan Martinez,paige73@gmail.com,pass1,"Tecnología GPS, Sensores"
 2,Phillip Solis,joseph17@hotmail.com,pass2,"Asientos de Cuero, Eficiencia de combustible"
 3,Paula Pacheco,jelliott@johnson.com,pass3,"Tecnología GPS, Sensores"
