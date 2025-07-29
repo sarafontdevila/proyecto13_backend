@@ -5,7 +5,10 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "dev": "nodemon index.js"
+    "dev": "nodemon index.js",
+    "csvProducto": "node ./src/scripts/csvJsonProducto.js",
+    "seedProducto": "node ./src/seeds/productos.js",
+    "seedTodo": "npm run csvProducto && npm run seedProducto"
   },
   "keywords": [],
   "author": "",
@@ -13,6 +16,7 @@
   "dependencies": {
     "cloudinary": "^1.41.3",
     "cors": "^2.8.5",
+    "csvtojson": "^2.0.10",
     "dotenv": "^17.2.1",
     "express": "^5.1.0",
     "m": "^1.9.1",
