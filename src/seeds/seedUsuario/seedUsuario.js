@@ -3,6 +3,7 @@ const mongoose = require('mongoose');
 const csv = require('csvtojson');
 const fs = require('fs');
 const path = require('path');
+const bcrypt = require('bcrypt');
 const Usuario = require('../../api/models/usuario');
 
 const csvPath = path.join(__dirname, '../../data/usuarios.csv');
@@ -21,7 +22,14 @@ const renameKeys = (obj) => {
 const seedUsuario = async () => {
   try {
     const csvData = await csv().fromFile(csvPath);
-    const usuarios = csvData.map(renameKeys);
+    let usuarios = csvData.map(renameKeys);
+
+    usuarios = await Promise.all(
+      usuarios.map(async (user) => {
+        const hashedPassword = await bcrypt.hash(user.password, 10);
+        return { ...user, password: hashedPassword };
+      })
+    );
 
     fs.writeFileSync(jsonPath, JSON.stringify(usuarios, null, 2), 'utf8');
     console.log('📄 Archivo usuarios.json generado correctamente');
