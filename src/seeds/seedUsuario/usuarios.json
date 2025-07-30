@@ -1,0 +1,702 @@
+[
+  {
+    "usuario": 1,
+    "nombre": "Joan Martinez",
+    "email": "paige73@gmail.com",
+    "password": "pass1",
+    "preferencias": "Tecnología GPS, Sensores"
+  },
+  {
+    "usuario": 2,
+    "nombre": "Phillip Solis",
+    "email": "joseph17@hotmail.com",
+    "password": "pass2",
+    "preferencias": "Asientos de Cuero, Eficiencia de combustible"
+  },
+  {
+    "usuario": 3,
+    "nombre": "Paula Pacheco",
+    "email": "jelliott@johnson.com",
+    "password": "pass3",
+    "preferencias": "Tecnología GPS, Sensores"
+  },
+  {
+    "usuario": 4,
+    "nombre": "Kendra Lewis",
+    "email": "harrisaaron@bell-day.com",
+    "password": "pass4",
+    "preferencias": "Tecnología GPS, Asientos de Cuero, Eficiencia de combustible"
+  },
+  {
+    "usuario": 5,
+    "nombre": "Brandon Smith",
+    "email": "traviscook@yahoo.com",
+    "password": "pass5",
+    "preferencias": "Sensores, Eficiencia de combustible"
+  },
+  {
+    "usuario": 6,
+    "nombre": "James Gilmore",
+    "email": "bradley52@hotmail.com",
+    "password": "pass6",
+    "preferencias": "Tecnología GPS, Sensores, Asientos de Cuero"
+  },
+  {
+    "usuario": 7,
+    "nombre": "Cynthia Lamb",
+    "email": "jason03@hotmail.com",
+    "password": "pass7",
+    "preferencias": "Tecnología GPS, Sensores, Eficiencia de combustible"
+  },
+  {
+    "usuario": 8,
+    "nombre": "Gregory Wise",
+    "email": "gallen@yahoo.com",
+    "password": "pass8",
+    "preferencias": "Tecnología GPS, Asientos de Cuero"
+  },
+  {
+    "usuario": 9,
+    "nombre": "Natalie Smith",
+    "email": "whitedaniel@yahoo.com",
+    "password": "pass9",
+    "preferencias": "Sensores, Eficiencia de combustible"
+  },
+  {
+    "usuario": 10,
+    "nombre": "William Johnson",
+    "email": "sharikelly@nguyen.com",
+    "password": "pass10",
+    "preferencias": "Tecnología GPS, Sensores, Asientos de Cuero"
+  },
+  {
+    "usuario": 11,
+    "nombre": "Mr. Thomas Stephens",
+    "email": "jennifer26@smith.biz",
+    "password": "pass11",
+    "preferencias": "Tecnología GPS, Eficiencia de combustible"
+  },
+  {
+    "usuario": 12,
+    "nombre": "Andrew Pratt",
+    "email": "onealanthony@pennington.info",
+    "password": "pass12",
+    "preferencias": "Sensores, Asientos de Cuero"
+  },
+  {
+    "usuario": 13,
+    "nombre": "Aaron Combs",
+    "email": "tranjohnny@james.com",
+    "password": "pass13",
+    "preferencias": "Tecnología GPS, Sensores, Eficiencia de combustible"
+  },
+  {
+    "usuario": 14,
+    "nombre": "Gary Thompson",
+    "email": "chadburgess@gmail.com",
+    "password": "pass14",
+    "preferencias": "Tecnología GPS, Asientos de Cuero, Sensores"
+  },
+  {
+    "usuario": 15,
+    "nombre": "Theresa Garcia",
+    "email": "mark52@blackwell.info",
+    "password": "pass15",
+    "preferencias": "Tecnología GPS, Asientos de Cuero, Eficiencia de combustible"
+  },
+  {
+    "usuario": 16,
+    "nombre": "Misty Richardson",
+    "email": "webermatthew@chandler-phillips.com",
+    "password": "pass16",
+    "preferencias": "Asientos de Cuero, Tecnología GPS, Sensores"
+  },
+  {
+    "usuario": 17,
+    "nombre": "Katherine Powell",
+    "email": "kevin11@haley.com",
+    "password": "pass17",
+    "preferencias": "Tecnología GPS, Asientos de Cuero"
+  },
+  {
+    "usuario": 18,
+    "nombre": "Elizabeth Anderson",
+    "email": "anthony91@yahoo.com",
+    "password": "pass18",
+    "preferencias": "Tecnología GPS, Sensores, Eficiencia de combustible"
+  },
+  {
+    "usuario": 19,
+    "nombre": "Charles Allen",
+    "email": "nelsonjohn@yahoo.com",
+    "password": "pass19",
+    "preferencias": "Asientos de Cuero, Tecnología GPS, Sensores"
+  },
+  {
+    "usuario": 20,
+    "nombre": "Mary Foster",
+    "email": "leslie46@stephens.com",
+    "password": "pass20",
+    "preferencias": "Tecnología GPS, Eficiencia de combustible"
+  },
+  {
+    "usuario": 21,
+    "nombre": "Scott Baker",
+    "email": "burnettsamantha@gmail.com",
+    "password": "pass21",
+    "preferencias": "Asientos de Cuero, Sensores, Eficiencia de combustible"
+  },
+  {
+    "usuario": 22,
+    "nombre": "Michael Collins",
+    "email": "patrickpoole@gmail.com",
+    "password": "pass22",
+    "preferencias": "Tecnología GPS, Asientos de Cuero, Eficiencia de combustible"
+  },
+  {
+    "usuario": 23,
+    "nombre": "Jeremy Clark",
+    "email": "nwilkerson@jones.com",
+    "password": "pass23",
+    "preferencias": "Tecnología GPS, Sensores, Eficiencia de combustible"
+  },
+  {
+    "usuario": 24,
+    "nombre": "Ralph Brooks",
+    "email": "alexis20@yahoo.com",
+    "password": "pass24",
+    "preferencias": "Tecnología GPS, Asientos de Cuero"
+  },
+  {
+    "usuario": 25,
+    "nombre": "Jessica Ewing",
+    "email": "amandaduran@gmail.com",
+    "password": "pass25",
+    "preferencias": "Tecnología GPS, Sensores, Asientos de Cuero"
+  },
+  {
+    "usuario": 26,
+    "nombre": "Melissa Herrera",
+    "email": "gary34@rhodes-thompson.biz",
+    "password": "pass26",
+    "preferencias": "Tecnología GPS, Asientos de Cuero"
+  },
+  {
+    "usuario": 27,
+    "nombre": "Lisa Powers",
+    "email": "stephanie42@hotmail.com",
+    "password": "pass27",
+    "preferencias": "Tecnología GPS, Sensores"
+  },
+  {
+    "usuario": 28,
+    "nombre": "Joshua Day",
+    "email": "butleranthony@gmail.com",
+    "password": "pass28",
+    "preferencias": "Sensores, Eficiencia de combustible"
+  },
+  {
+    "usuario": 29,
+    "nombre": "Kelly Murray",
+    "email": "michael97@baker.info",
+    "password": "pass29",
+    "preferencias": "Tecnología GPS, Asientos de Cuero"
+  },
+  {
+    "usuario": 30,
+    "nombre": "Angela Myers",
+    "email": "darrenwilliams@gmail.com",
+    "password": "pass30",
+    "preferencias": "Sensores, Eficiencia de combustible"
+  },
+  {
+    "usuario": 31,
+    "nombre": "Shane Calderon",
+    "email": "jessicacox@kelly-morales.net",
+    "password": "pass31",
+    "preferencias": "Tecnología GPS, Asientos de Cuero"
+  },
+  {
+    "usuario": 32,
+    "nombre": "Caroline Perry",
+    "email": "alicia62@owens-stone.info",
+    "password": "pass32",
+    "preferencias": "Sensores, Eficiencia de combustible"
+  },
+  {
+    "usuario": 33,
+    "nombre": "Cristian Pearson",
+    "email": "stephensonanne@yahoo.com",
+    "password": "pass33",
+    "preferencias": "Tecnología GPS, Sensores"
+  },
+  {
+    "usuario": 34,
+    "nombre": "Jon Thomas",
+    "email": "cory50@cooper.org",
+    "password": "pass34",
+    "preferencias": "Tecnología GPS, Asientos de Cuero"
+  },
+  {
+    "usuario": 35,
+    "nombre": "Nicole Jones",
+    "email": "davidflores@lee.biz",
+    "password": "pass35",
+    "preferencias": "Tecnología GPS, Sensores, Eficiencia de combustible"
+  },
+  {
+    "usuario": 36,
+    "nombre": "Benjamin Reed",
+    "email": "pfuller@walker.com",
+    "password": "pass36",
+    "preferencias": "Asientos de Cuero, Tecnología GPS, Sensores"
+  },
+  {
+    "usuario": 37,
+    "nombre": "Andrew Davis",
+    "email": "twilson@hotmail.com",
+    "password": "pass37",
+    "preferencias": "Tecnología GPS, Eficiencia de combustible"
+  },
+  {
+    "usuario": 38,
+    "nombre": "Sharon Thomas",
+    "email": "jeff35@gmail.com",
+    "password": "pass38",
+    "preferencias": "Tecnología GPS, Sensores, Eficiencia de combustible"
+  },
+  {
+    "usuario": 39,
+    "nombre": "Zachary Vargas",
+    "email": "justin37@yahoo.com",
+    "password": "pass39",
+    "preferencias": "Tecnología GPS, Sensores, Asientos de Cuero"
+  },
+  {
+    "usuario": 40,
+    "nombre": "Jonathan Hunt",
+    "email": "david86@jimenez-stone.org",
+    "password": "pass40",
+    "preferencias": "Tecnología GPS, Asientos de Cuero"
+  },
+  {
+    "usuario": 41,
+    "nombre": "Jennifer Miles",
+    "email": "evanjones@huff.com",
+    "password": "pass41",
+    "preferencias": "Tecnología GPS, Eficiencia de combustible"
+  },
+  {
+    "usuario": 42,
+    "nombre": "April Frey",
+    "email": "kharris@hardy.com",
+    "password": "pass42",
+    "preferencias": "Sensores, Asientos de Cuero"
+  },
+  {
+    "usuario": 43,
+    "nombre": "Dakota Smith",
+    "email": "nathanenglish@yahoo.com",
+    "password": "pass43",
+    "preferencias": "Tecnología GPS, Eficiencia de combustible"
+  },
+  {
+    "usuario": 44,
+    "nombre": "Cody Grant",
+    "email": "teresaali@hotmail.com",
+    "password": "pass44",
+    "preferencias": "Tecnología GPS, Sensores"
+  },
+  {
+    "usuario": 45,
+    "nombre": "John Nguyen",
+    "email": "cassandra49@hotmail.com",
+    "password": "pass45",
+    "preferencias": "Tecnología GPS, Asientos de Cuero"
+  },
+  {
+    "usuario": 46,
+    "nombre": "Alexis Russo",
+    "email": "Sensores",
+    "password": "pass46",
+    "preferencias": "Eficiencia de combustible"
+  },
+  {
+    "usuario": 47,
+    "nombre": "Austin Peterson",
+    "email": "jennifervega@yahoo.com",
+    "password": "pass47",
+    "preferencias": "Asientos de Cuero, Tecnología GPS, Sensores"
+  },
+  {
+    "usuario": 48,
+    "nombre": "Brianna Jones",
+    "email": "ballardstephanie@yahoo.com",
+    "password": "pass48",
+    "preferencias": "Tecnología GPS, Eficiencia de combustible"
+  },
+  {
+    "usuario": 49,
+    "nombre": "Tammy Bennett",
+    "email": "amber60@hotmail.com",
+    "password": "pass49",
+    "preferencias": "Sensores, Asientos de Cuero"
+  },
+  {
+    "usuario": 50,
+    "nombre": "Amy Rose",
+    "email": "rebeccataylor@gmail.com",
+    "password": "pass50",
+    "preferencias": "Tecnología GPS, Eficiencia de combustible"
+  },
+  {
+    "usuario": 51,
+    "nombre": "Stephanie Kelley",
+    "email": "Sensores",
+    "password": "pass51",
+    "preferencias": "Asientos de Cuero"
+  },
+  {
+    "usuario": 52,
+    "nombre": "Monique Smith",
+    "email": "ashley63@hotmail.com",
+    "password": "pass52",
+    "preferencias": "Asientos de Cuero, Tecnología GPS, Eficiencia de combustible"
+  },
+  {
+    "usuario": 53,
+    "nombre": "Michael Diaz",
+    "email": "bparsons@travis.com",
+    "password": "pass53",
+    "preferencias": "Tecnología GPS, Sensores"
+  },
+  {
+    "usuario": 54,
+    "nombre": "John Schneider",
+    "email": "curtishernandez@yahoo.com",
+    "password": "pass54",
+    "preferencias": "Asientos de Cuero, Tecnología GPS, Eficiencia de combustible"
+  },
+  {
+    "usuario": 55,
+    "nombre": "Gary Sullivan",
+    "email": "jmitchell@davenport-lyons.biz",
+    "password": "pass55",
+    "preferencias": "Tecnología GPS, Sensores"
+  },
+  {
+    "usuario": 56,
+    "nombre": "Dana Brady",
+    "email": "hmassey@yahoo.com",
+    "password": "pass56",
+    "preferencias": "Asientos de Cuero, Tecnología GPS, Eficiencia de combustible"
+  },
+  {
+    "usuario": 57,
+    "nombre": "Elizabeth Cooper",
+    "email": "rodney69@todd.com",
+    "password": "pass57",
+    "preferencias": "Tecnología GPS, Sensores"
+  },
+  {
+    "usuario": 58,
+    "nombre": "Sean Sims",
+    "email": "harrisonphilip@hardy.biz",
+    "password": "pass58",
+    "preferencias": "Tecnología GPS, Asientos de Cuero"
+  },
+  {
+    "usuario": 59,
+    "nombre": "Christine Diaz",
+    "email": "wmcclain@ramos.com",
+    "password": "pass59",
+    "preferencias": "Sensores, Eficiencia de combustible"
+  },
+  {
+    "usuario": 60,
+    "nombre": "Samantha Lee",
+    "email": "ashley80@jackson-taylor.com",
+    "password": "pass60",
+    "preferencias": "Tecnología GPS, Asientos de Cuero"
+  },
+  {
+    "usuario": 61,
+    "nombre": "Christopher Howard",
+    "email": "justinhunt@rose.com",
+    "password": "pass61",
+    "preferencias": "Asientos de Cuero, Tecnología GPS, Sensores"
+  },
+  {
+    "usuario": 62,
+    "nombre": "David Haley",
+    "email": "xstephens@santiago.org",
+    "password": "pass62",
+    "preferencias": "Eficiencia de combustible, Tecnología GPS"
+  },
+  {
+    "usuario": 63,
+    "nombre": "Mark Gilbert",
+    "email": "solomonchristopher@torres-sweeney.info",
+    "password": "pass63",
+    "preferencias": "Tecnología GPS, Sensores"
+  },
+  {
+    "usuario": 64,
+    "nombre": "Brenda Le",
+    "email": "joshuablair@tate.info",
+    "password": "pass64",
+    "preferencias": "Asientos de Cuero, Tecnología GPS, Eficiencia de combustible"
+  },
+  {
+    "usuario": 65,
+    "nombre": "Danielle Byrd",
+    "email": "joshuabright@brewer.net",
+    "password": "pass65",
+    "preferencias": "Sensores, Asientos de Cuero"
+  },
+  {
+    "usuario": 66,
+    "nombre": "Michael Potts",
+    "email": "evan00@gmail.com",
+    "password": "pass66",
+    "preferencias": "Asientos de Cuero, Tecnología GPS, Eficiencia de combustible"
+  },
+  {
+    "usuario": 67,
+    "nombre": "Keith Johnson",
+    "email": "amandamanning@gmail.com",
+    "password": "pass67",
+    "preferencias": "Eficiencia de combustible, Asientos de Cuero, Tecnología GPS"
+  },
+  {
+    "usuario": 68,
+    "nombre": "Benjamin Brown",
+    "email": "michelle56@mooney.net",
+    "password": "pass68",
+    "preferencias": "Tecnología GPS, Asientos de Cuero"
+  },
+  {
+    "usuario": 69,
+    "nombre": "Kim Watts",
+    "email": "orobinson@johnson-monroe.net",
+    "password": "pass69",
+    "preferencias": "Tecnología GPS, Sensores"
+  },
+  {
+    "usuario": 70,
+    "nombre": "Dawn Smith",
+    "email": "sandersjennifer@white.com",
+    "password": "pass70",
+    "preferencias": "Asientos de Cuero, Eficiencia de combustible"
+  },
+  {
+    "usuario": 71,
+    "nombre": "Michael Ortiz",
+    "email": "john66@nielsen-alvarado.com",
+    "password": "pass71",
+    "preferencias": "Eficiencia de combustible, Tecnología GPS, Sensores"
+  },
+  {
+    "usuario": 72,
+    "nombre": "Robert Guerra",
+    "email": "jenniferbrown@reyes.biz",
+    "password": "pass72",
+    "preferencias": "Tecnología GPS, Asientos de Cuero"
+  },
+  {
+    "usuario": 73,
+    "nombre": "Brittany Hines",
+    "email": "ymartinez@richardson.biz",
+    "password": "pass73",
+    "preferencias": "Tecnología GPS, Eficiencia de combustible"
+  },
+  {
+    "usuario": 74,
+    "nombre": "Patricia Williams",
+    "email": "thomasjeremiah@yahoo.com",
+    "password": "pass74",
+    "preferencias": "Sensores, Asientos de Cuero"
+  },
+  {
+    "usuario": 75,
+    "nombre": "Connor Fritz",
+    "email": "twalker@hotmail.com",
+    "password": "pass75",
+    "preferencias": "Eficiencia de combustible, Tecnología GPS, Sensores"
+  },
+  {
+    "usuario": 76,
+    "nombre": "Melanie Acosta",
+    "email": "michael44@jones-joseph.org",
+    "password": "pass76",
+    "preferencias": "Tecnología GPS, Sensores, Asientos de Cuero"
+  },
+  {
+    "usuario": 77,
+    "nombre": "Christopher Robbins",
+    "email": "nathanhall@yahoo.com",
+    "password": "pass77",
+    "preferencias": "Tecnología GPS, Eficiencia de combustible"
+  },
+  {
+    "usuario": 78,
+    "nombre": "Daniel Reilly",
+    "email": "ocollins@hotmail.com",
+    "password": "pass78",
+    "preferencias": "Asientos de Cuero, Tecnología GPS, Sensores"
+  },
+  {
+    "usuario": 79,
+    "nombre": "Aaron Hall",
+    "email": "alisha72@hughes-logan.net",
+    "password": "pass79",
+    "preferencias": "Tecnología GPS, Sensores"
+  },
+  {
+    "usuario": 80,
+    "nombre": "Joshua Martinez",
+    "email": "jali@hall.biz",
+    "password": "pass80",
+    "preferencias": "Tecnología GPS, Asientos de Cuero"
+  },
+  {
+    "usuario": 81,
+    "nombre": "Xavier Mcguire",
+    "email": "jamie27@gmail.com",
+    "password": "pass81",
+    "preferencias": "Sensores, Eficiencia de combustible"
+  },
+  {
+    "usuario": 82,
+    "nombre": "Sara Carter",
+    "email": "kevinmiller@fleming.com",
+    "password": "pass82",
+    "preferencias": "Tecnología GPS, Asientos de Cuero"
+  },
+  {
+    "usuario": 83,
+    "nombre": "Kyle Pham",
+    "email": "kentanna@gmail.com",
+    "password": "pass83",
+    "preferencias": "Tecnología GPS, Sensores, Eficiencia de combustible"
+  },
+  {
+    "usuario": 84,
+    "nombre": "Elizabeth Roberts",
+    "email": "donald70@gmail.com",
+    "password": "pass84",
+    "preferencias": "Asientos de Cuero, Tecnología GPS, Sensores"
+  },
+  {
+    "usuario": 85,
+    "nombre": "Dr. James Torres",
+    "email": "wwilson@hotmail.com",
+    "password": "pass85",
+    "preferencias": "Tecnología GPS, Eficiencia de combustible"
+  },
+  {
+    "usuario": 86,
+    "nombre": "Sarah Anderson",
+    "email": "mooneymichael@yahoo.com",
+    "password": "pass86",
+    "preferencias": "Tecnología GPS, Asientos de Cuero"
+  },
+  {
+    "usuario": 87,
+    "nombre": "Vincent Knap",
+    "email": "lyonsmatthew@casey.biz",
+    "password": "pass87",
+    "preferencias": "Sensores, Eficiencia de combustible"
+  },
+  {
+    "usuario": 88,
+    "nombre": "Anna Miller",
+    "email": "daniel74@yahoo.com",
+    "password": "pass88",
+    "preferencias": "Asientos de Cuero, Tecnología GPS, Sensores"
+  },
+  {
+    "usuario": 89,
+    "nombre": "Morgan Allen",
+    "email": "yvettesutton@yahoo.com",
+    "password": "pass89",
+    "preferencias": "Asientos de Cuero, Eficiencia de combustible, Tecnología GPS"
+  },
+  {
+    "usuario": 90,
+    "nombre": "Lori Mccarthy",
+    "email": "nataliewhite@yahoo.com",
+    "password": "pass90",
+    "preferencias": "Tecnología GPS, Sensores"
+  },
+  {
+    "usuario": 91,
+    "nombre": "Denise Bell",
+    "email": "wallacejohn@hotmail.com",
+    "password": "pass91",
+    "preferencias": "Tecnología GPS, Eficiencia de combustible"
+  },
+  {
+    "usuario": 92,
+    "nombre": "April Mclaughlin",
+    "email": "rhodeswilliam@johnson.com",
+    "password": "pass92",
+    "preferencias": "Sensores, Asientos de Cuero"
+  },
+  {
+    "usuario": 93,
+    "nombre": "Anthony Miller",
+    "email": "sean01@hamilton.com",
+    "password": "pass93",
+    "preferencias": "Asientos de Cuero, Tecnología GPS, Eficiencia de combustible"
+  },
+  {
+    "usuario": 94,
+    "nombre": "Laurie Brown",
+    "email": "sweeneytony@yahoo.com",
+    "password": "pass94",
+    "preferencias": "Tecnología GPS, Sensores, Asientos de Cuero"
+  },
+  {
+    "usuario": 95,
+    "nombre": "Anthony Jefferson",
+    "email": "snyderwilliam@gmail.com",
+    "password": "pass95",
+    "preferencias": "Asientos de Cuero, Tecnología GPS, Eficiencia de combustible"
+  },
+  {
+    "usuario": 96,
+    "nombre": "Alexis Bauer",
+    "email": "sellers@stone.com",
+    "password": "pass96",
+    "preferencias": "Tecnología GPS, Sensores"
+  },
+  {
+    "usuario": 97,
+    "nombre": "Kent Thompson",
+    "email": "joe90@hotmail.com",
+    "password": "pass97",
+    "preferencias": "Tecnología GPS, Asientos de Cuero"
+  },
+  {
+    "usuario": 98,
+    "nombre": "Adrienne Nixon",
+    "email": "aaronkey@gmail.com",
+    "password": "pass98",
+    "preferencias": "Eficiencia de combustible, Tecnología GPS, Sensores"
+  },
+  {
+    "usuario": 99,
+    "nombre": "Cory Duncan",
+    "email": "ronnie59@mullins.com",
+    "password": "pass99",
+    "preferencias": "Eficiencia de combustible, Tecnología GPS, Asientos de Cuero"
+  },
+  {
+    "usuario": 100,
+    "nombre": "Tracey Jackson",
+    "email": "jessicacherry@yahoo.com",
+    "password": "pass100",
+    "preferencias": "Eficiencia de combustible, Tecnología GPS, Sensores"
+  }
+]

@@ -6,9 +6,10 @@
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js",
-    "csvProducto": "node ./src/scripts/csvJsonProducto.js",
-    "seedProducto": "node ./src/seeds/productos.js",
-    "seedTodo": "npm run csvProducto && npm run seedProducto"
+    "seedProducto": "node ./src/seeds/seedProducto/seedProducto.js",
+    "seedUsuario": "node ./src/seeds/seedUsuario/seedUsuario.js",
+    "seedVenta": "node ./src/seeds/seedVenta/seedVenta.js"
+
   },
   "keywords": [],
   "author": "",

@@ -17,7 +17,7 @@ const ventaSchema = new mongoose.Schema({
     required: true, 
     default: Date.now 
   },
-  metodoPago: { type: string, required: true, default: Date.now },
+  metodoPago: { type: String, required: true},
   fechaEntrega: {
     type: Date,
     required:false
