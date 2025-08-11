@@ -48,8 +48,8 @@ const seedVenta = async () => {
     await Venta.insertMany(ventas);
     console.log('✅ Ventas insertadas correctamente');
 
-    await mongoose.disconnect();
-    console.log('🔌 Desconectado de la base de datos');
+    /*await mongoose.disconnect();
+    console.log('🔌 Desconectado de la base de datos');*/
   } catch (err) {
     console.error('❌ Error en el proceso de seed:', err);
     await mongoose.disconnect();

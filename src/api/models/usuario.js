@@ -9,7 +9,7 @@ const usuarioSchema = new mongoose.Schema({
   rol: { 
     type: String, 
     required: true, 
-    enum: ['cliente', 'administrador'],
+    enum: ['cliente', 'admin'],
     default: 'cliente'
   },
 },{

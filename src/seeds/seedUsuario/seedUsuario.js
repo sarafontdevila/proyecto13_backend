@@ -41,8 +41,8 @@ const seedUsuario = async () => {
     await Usuario.insertMany(usuarios);
     console.log('✅ Usuarios insertados correctamente');
 
-    await mongoose.disconnect();
-    console.log('🔌 Desconectado de la base de datos');
+   /* await mongoose.disconnect();
+    console.log('🔌 Desconectado de la base de datos');*/
   } catch (err) {
     console.error('❌ Error en el proceso de seed:', err);
     await mongoose.disconnect();

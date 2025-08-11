@@ -13,9 +13,9 @@ const createStorage = (folderName) => {
     cloudinary: cloudinary,
     params: (req, file) => ({
       folder: folder,
-      allowedFormats: ["jpg", "png", "jpeg", "gif", "webp"],
+      allowed_formats: ["jpg", "png", "jpeg", "gif", "webp"],
     }),
   });
 }
-const differentUpload = multer({ storage: createStorage("differentFolder") });
-module.exports = differentUpload
+const upload = multer({ storage: createStorage() });
+module.exports = upload

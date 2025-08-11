@@ -1,24 +1,24 @@
 const mongoose = require ("mongoose");
 
 const ventaSchema = new mongoose.Schema({
-  venta: { type: Number, unique: true, required: true },
-  producto: { 
+  Venta: { type: Number, unique: true, required: true },
+  Producto: { 
     type: mongoose.Schema.Types.ObjectId, 
     ref: 'Producto',
     required: true 
   },
-  cliente: { 
+  Cliente: { 
     type: mongoose.Schema.Types.ObjectId, 
     ref: 'Usuario',
     required: true 
   },
-  fechaVenta: { 
+  FechaVenta: { 
     type: Date, 
     required: true, 
     default: Date.now 
   },
-  metodoPago: { type: String, required: true},
-  fechaEntrega: {
+  MetodoPago: { type: String, required: true},
+  FechaEntrega: {
     type: Date,
     required:false
   },

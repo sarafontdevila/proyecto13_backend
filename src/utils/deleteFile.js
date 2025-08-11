@@ -13,4 +13,4 @@ const deleteFile = (url) => {
 
 }
 
-module.exports = { deleteFile }
+module.exports = deleteFile
