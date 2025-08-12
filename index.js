@@ -12,8 +12,9 @@ const { connectDB } = require("./src/config/db");
 const app = express();
 connectDB()
 
-app.use (cors())
 app.use(express.json())
+
+app.use (cors())
 
 cloudinary.config({
   cloud_name: process.env.CLOUD_NAME,

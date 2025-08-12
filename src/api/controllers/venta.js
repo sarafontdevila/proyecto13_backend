@@ -4,22 +4,21 @@ const Usuario = require("../models/usuario");
 
 const createVenta = async (req, res) => {
   try {
-    const { venta, producto, metodoPago, fechaEntrega } = req.body;
+    const { producto, metodoPago, fechaEntrega } = req.body;
+
     const productoExistente = await Producto.findById(producto);
     if (!productoExistente) {
       return res.status(404).json({ error: "Producto no encontrado" });
     }
-    const ventaExistente = await Venta.findOne({ venta });
-    if (ventaExistente) {
-      return res.status(400).json({ error: "El número de venta ya existe" });
-    }
+    const ultimaVenta = await Venta.findOne().sort({ venta: -1 }).limit(1);
+    const numeroDeVenta = ultimaVenta ? ultimaVenta.venta + 1 : 1;
 
     const nuevaVenta = new Venta({
-      venta,
+      venta: numeroDeVenta,
       producto,
       cliente: req.usuario._id, 
       metodoPago,
-      fechaEntrega: fechaEntrega || undefined 
+      fechaEntrega: fechaEntrega || null
     });
 
     const ventaGuardada = await nuevaVenta.save();
@@ -32,8 +31,11 @@ const createVenta = async (req, res) => {
       message: "Venta creada exitosamente",
       venta: ventaCompleta
     });
-  } catch (error) {
+  }  catch (error) {
     console.error(error);
+    if (error.code === 11000) {
+      return res.status(400).json({ error: "El número de venta ya existe. Intente de nuevo." });
+    }
     if (error.name === 'ValidationError') {
       const errores = Object.values(error.errors).map(err => err.message);
       return res.status(400).json({ error: "Error de validación", detalles: errores });
@@ -67,12 +69,12 @@ const getVentaById = async (req, res) => {
   try {
     let venta;
     
-    if (req.usuario.role === 'admin') {
+    if (req.usuario.rol === 'admin') {
       venta = await Venta.findById(req.params.id).populate("producto").populate("cliente");
     } else {
       venta = await Venta.findOne({ 
         _id: req.params.id, 
-        cliente: req.usuario.id 
+        cliente: req.usuario._id 
       }).populate("producto").populate("cliente");
     }
     
@@ -103,7 +105,7 @@ const getVentasByProducto = async (req, res) => {
       .sort({ createdAt: -1 });
 
     res.json({
-      producto: producto.nombre,
+      producto: `${producto.marca}`,
       totalVentas: ventas.length,
       ventas: ventas
     });
