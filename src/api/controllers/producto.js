@@ -14,14 +14,42 @@ const createProducto = async (req, res) => {
   }
   }
 
-const getProductos = async (req, res) => {
+/*const getProductos = async (req, res) => {
   try {
     const productos = await Producto.find()
     return res.status(200).json(productos)
   } catch (error) {
     return res.status(400).json({ message: 'Error al obtener productos' })
   }
+}*/
+const getProductos = async (req, res) => {
+  try {
+    const { tipo, marca, precioMin, precioMax } = req.query;
+    const filtros = {};
+
+    if (tipo) {
+      filtros.tipo = tipo;
+    }
+    if (marca) {
+      filtros.marca = marca;
+    }
+    if (precioMin || precioMax) {
+      filtros.precioVenta = {};
+      if (precioMin) {
+        filtros.precioVenta.$gte = Number(precioMin);
+      }
+      if (precioMax) {
+        filtros.precioVenta.$lte = Number(precioMax);
+      }
+    }
+
+    const productos = await Producto.find(filtros);
+    return res.status(200).json(productos);
+  } catch (error) {
+    return res.status(400).json({ message: 'Error al obtener productos', error: error.message });
+  }
 }
+
 
 const getProductoById = async (req, res) => {
   try {
