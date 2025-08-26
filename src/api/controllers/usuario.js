@@ -63,14 +63,11 @@ const login = async (req, res) => {
       return res.status(400).json({ message: 'Usuario o contraseña incorrecta' })
     }
     
-
-    const isMatch = await bcrypt.compare(password, user.password)
-    if (!isMatch) {
-      return res.status(400).json({ message: 'Usuario o contraseña incorrecta' })
+    if (bcrypt.compareSync(password, user.password)){
+      const token = generateToken(user._id)
+      return res.status(200).json({ token, user })
     }
-
-    const token = generateToken(user._id)
-    return res.status(200).json({ user, token })
+      return res.status(400).json({message:'Contraseña o usuario incorrecta'})
   } catch (error) {
     console.error(error)
     return res.status(400).json({ message: 'Error en login' })
