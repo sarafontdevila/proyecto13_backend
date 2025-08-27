@@ -24,7 +24,7 @@ const createProducto = async (req, res) => {
 }*/
 const getProductos = async (req, res) => {
   try {
-    const { tipo, marca, precioMin, precioMax } = req.query;
+    const { tipo, marca, precioMin, precioMax, page =1, limit =6 } = req.query;
     const filtros = {};
 
     if (tipo) {
@@ -42,9 +42,18 @@ const getProductos = async (req, res) => {
         filtros.precioVenta.$lte = Number(precioMax);
       }
     }
+    const skip = (Number(page) - 1) * Number(limit);
 
-    const productos = await Producto.find(filtros);
-    return res.status(200).json(productos);
+    const productos = await Producto.find(filtros).skip(skip)
+    .limit(Number(limit));
+    const total = await Producto.countDocuments(filtros);
+    return res.status(200).json({
+      total,
+      page: Number(page),
+      totalPages: Math.ceil(total / limit),
+      productos
+    });
+
   } catch (error) {
     return res.status(400).json({ message: 'Error al obtener productos', error: error.message });
   }
