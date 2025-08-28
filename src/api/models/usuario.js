@@ -9,8 +9,8 @@ const usuarioSchema = new mongoose.Schema({
   rol: { 
     type: String, 
     required: true, 
-    enum: ['cliente', 'admin'],
-    default: 'cliente'
+    enum: ["cliente", "admin"],
+    default: "cliente"
   },
 },{
   timestamps: true,
