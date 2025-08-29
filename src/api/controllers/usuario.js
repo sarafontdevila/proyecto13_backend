@@ -74,9 +74,34 @@ const login = async (req, res) => {
   }
 }
 
+const me = async (req, res) => {
+  try {
+    if (!req.usuario) {
+      return res.status(401).json({ message: "No autorizado" });
+    
+  } const { _id, usuario, nombre, email, rol, preferencias, createdAt, updatedAt } = req.usuario;
+
+  return res.status(200).json({
+    id: _id,
+    usuario,
+    nombre,
+    email,
+    rol,
+    preferencias,
+    createdAt,
+    updatedAt,
+  });
+} catch (error) {
+  console.error(error);
+  return res.status(400).json({ message: "Error obteniendo el usuario actual" });
+}
+
+}
+
 module.exports = {
   getUsers,
   getUserById,
   register,
   login,
+  me,
 }
