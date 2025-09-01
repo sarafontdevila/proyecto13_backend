@@ -20,6 +20,7 @@ const renameKeys = (item) => ({
   precioVenta: parseFloat(item.PrecioVenta),
   fechaAdquisicion: new Date(item["FechaAdquisición"]),
   imagen: item.Imagen,
+  vendido: false,
 });
 
 const seedProducto = async () => {

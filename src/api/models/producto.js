@@ -11,6 +11,7 @@ const productoSchema = new mongoose.Schema({
   precioVenta: { type: Number, required: true },
   fechaAdquisicion: { type: Date, required: true },
   imagen: { type: String }, 
+  vendido: { type: Boolean, default: false }
 },
 {
   timestamps: true,

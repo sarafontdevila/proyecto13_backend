@@ -22,6 +22,8 @@ const createVenta = async (req, res) => {
     });
 
     const ventaGuardada = await nuevaVenta.save();
+
+    await Producto.findByIdAndUpdate(producto, { vendido: true });
     
     const ventaCompleta = await Venta.findById(ventaGuardada._id)
       .populate("producto")

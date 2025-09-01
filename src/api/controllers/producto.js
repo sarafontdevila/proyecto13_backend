@@ -14,17 +14,9 @@ const createProducto = async (req, res) => {
   }
   }
 
-/*const getProductos = async (req, res) => {
-  try {
-    const productos = await Producto.find()
-    return res.status(200).json(productos)
-  } catch (error) {
-    return res.status(400).json({ message: 'Error al obtener productos' })
-  }
-}*/
 const getProductos = async (req, res) => {
   try {
-    const { tipo, marca, precioMin, precioMax, page =1, limit =6 } = req.query;
+    const { tipo, marca, precioMin, precioMax, page =1, limit =6, incluirVendidos } = req.query;
     const filtros = {};
 
     if (tipo) {
@@ -40,6 +32,9 @@ const getProductos = async (req, res) => {
       }
       if (precioMax) {
         filtros.precioVenta.$lte = Number(precioMax);
+      }
+      if (!(String(incluirVendidos).toLowerCase() === "true")) {
+        filtros.vendido = { $ne: true };
       }
     }
     const skip = (Number(page) - 1) * Number(limit);

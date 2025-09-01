@@ -1,7 +1,7 @@
 [
   {
     "venta": 2,
-    "producto": "689b3c92e97eb688fba7d7a6",
+    "producto": "68b5b100e2b7bd1eba000475",
     "cliente": "689b3ca47d4db9b898739cf8",
     "fechaVenta": "2023-02-01T00:00:00.000Z",
     "metodoPago": "Transferencia bancaria",
@@ -9,7 +9,7 @@
   },
   {
     "venta": 3,
-    "producto": "689b3c92e97eb688fba7d7a7",
+    "producto": "68b5b100e2b7bd1eba000476",
     "cliente": "689b3ca47d4db9b898739cf9",
     "fechaVenta": "2023-03-10T00:00:00.000Z",
     "metodoPago": "Efectivo",
@@ -17,7 +17,7 @@
   },
   {
     "venta": 4,
-    "producto": "689b3c92e97eb688fba7d7a8",
+    "producto": "68b5b100e2b7bd1eba000477",
     "cliente": "689b3ca47d4db9b898739cfa",
     "fechaVenta": "2023-04-05T00:00:00.000Z",
     "metodoPago": "Financiación",
@@ -25,7 +25,7 @@
   },
   {
     "venta": 5,
-    "producto": "689b3c92e97eb688fba7d7a9",
+    "producto": "68b5b100e2b7bd1eba000478",
     "cliente": "689b3ca47d4db9b898739cfb",
     "fechaVenta": "2023-05-20T00:00:00.000Z",
     "metodoPago": "Transacción bancaria",
@@ -33,7 +33,7 @@
   },
   {
     "venta": 7,
-    "producto": "689b3c92e97eb688fba7d7ab",
+    "producto": "68b5b100e2b7bd1eba00047a",
     "cliente": "689b3ca47d4db9b898739cfd",
     "fechaVenta": "2023-07-01T00:00:00.000Z",
     "metodoPago": "Tarjeta de crédito",
@@ -41,7 +41,7 @@
   },
   {
     "venta": 8,
-    "producto": "689b3c92e97eb688fba7d7ac",
+    "producto": "68b5b100e2b7bd1eba00047b",
     "cliente": "689b3ca47d4db9b898739cfe",
     "fechaVenta": "2023-08-18T00:00:00.000Z",
     "metodoPago": "Transferencia bancaria",
@@ -49,7 +49,7 @@
   },
   {
     "venta": 9,
-    "producto": "689b3c92e97eb688fba7d7ad",
+    "producto": "68b5b100e2b7bd1eba00047c",
     "cliente": "689b3ca47d4db9b898739cff",
     "fechaVenta": "2023-09-25T00:00:00.000Z",
     "metodoPago": "Efectivo",
@@ -57,7 +57,7 @@
   },
   {
     "venta": 10,
-    "producto": "689b3c92e97eb688fba7d7ae",
+    "producto": "68b5b100e2b7bd1eba00047d",
     "cliente": "689b3ca47d4db9b898739d00",
     "fechaVenta": "2023-10-02T00:00:00.000Z",
     "metodoPago": "Financiación",
@@ -65,7 +65,7 @@
   },
   {
     "venta": 11,
-    "producto": "689b3c92e97eb688fba7d7af",
+    "producto": "68b5b100e2b7bd1eba00047e",
     "cliente": "689b3ca47d4db9b898739d01",
     "fechaVenta": "2023-11-11T00:00:00.000Z",
     "metodoPago": "Transacción bancaria",
@@ -73,7 +73,7 @@
   },
   {
     "venta": 13,
-    "producto": "689b3c92e97eb688fba7d7b1",
+    "producto": "68b5b100e2b7bd1eba000480",
     "cliente": "689b3ca47d4db9b898739d03",
     "fechaVenta": "2024-01-08T00:00:00.000Z",
     "metodoPago": "Tarjeta de crédito",
@@ -81,7 +81,7 @@
   },
   {
     "venta": 14,
-    "producto": "689b3c92e97eb688fba7d7b2",
+    "producto": "68b5b100e2b7bd1eba000481",
     "cliente": "689b3ca47d4db9b898739d04",
     "fechaVenta": "2024-02-14T00:00:00.000Z",
     "metodoPago": "Transferencia bancaria",
@@ -89,7 +89,7 @@
   },
   {
     "venta": 15,
-    "producto": "689b3c92e97eb688fba7d7b3",
+    "producto": "68b5b100e2b7bd1eba000482",
     "cliente": "689b3ca47d4db9b898739d05",
     "fechaVenta": "2024-03-22T00:00:00.000Z",
     "metodoPago": "Efectivo",
@@ -97,7 +97,7 @@
   },
   {
     "venta": 16,
-    "producto": "689b3c92e97eb688fba7d7b4",
+    "producto": "68b5b100e2b7bd1eba000483",
     "cliente": "689b3ca47d4db9b898739d06",
     "fechaVenta": "2024-04-01T00:00:00.000Z",
     "metodoPago": "Financiación",
@@ -105,7 +105,7 @@
   },
   {
     "venta": 17,
-    "producto": "689b3c92e97eb688fba7d7b5",
+    "producto": "68b5b100e2b7bd1eba000484",
     "cliente": "689b3ca47d4db9b898739d07",
     "fechaVenta": "2024-05-09T00:00:00.000Z",
     "metodoPago": "Transacción bancaria",
@@ -113,7 +113,7 @@
   },
   {
     "venta": 18,
-    "producto": "689b3c92e97eb688fba7d7b6",
+    "producto": "68b5b100e2b7bd1eba000485",
     "cliente": "689b3ca47d4db9b898739d08",
     "fechaVenta": "2024-06-17T00:00:00.000Z",
     "metodoPago": "Tarjeta de débito",
@@ -121,7 +121,7 @@
   },
   {
     "venta": 19,
-    "producto": "689b3c92e97eb688fba7d7b7",
+    "producto": "68b5b100e2b7bd1eba000486",
     "cliente": "689b3ca47d4db9b898739d09",
     "fechaVenta": "2024-07-04T00:00:00.000Z",
     "metodoPago": "Tarjeta de crédito",
@@ -129,7 +129,7 @@
   },
   {
     "venta": 20,
-    "producto": "689b3c92e97eb688fba7d7b8",
+    "producto": "68b5b100e2b7bd1eba000487",
     "cliente": "689b3ca47d4db9b898739d0a",
     "fechaVenta": "2024-08-11T00:00:00.000Z",
     "metodoPago": "Transferencia bancaria",
@@ -137,7 +137,7 @@
   },
   {
     "venta": 21,
-    "producto": "689b3c92e97eb688fba7d7b9",
+    "producto": "68b5b100e2b7bd1eba000488",
     "cliente": "689b3ca47d4db9b898739d0b",
     "fechaVenta": "2024-09-19T00:00:00.000Z",
     "metodoPago": "Efectivo",
@@ -145,7 +145,7 @@
   },
   {
     "venta": 22,
-    "producto": "689b3c92e97eb688fba7d7ba",
+    "producto": "68b5b100e2b7bd1eba000489",
     "cliente": "689b3ca47d4db9b898739d0c",
     "fechaVenta": "2024-10-28T00:00:00.000Z",
     "metodoPago": "Financiación",
@@ -153,7 +153,7 @@
   },
   {
     "venta": 23,
-    "producto": "689b3c92e97eb688fba7d7bb",
+    "producto": "68b5b100e2b7bd1eba00048a",
     "cliente": "689b3ca47d4db9b898739d0d",
     "fechaVenta": "2024-11-05T00:00:00.000Z",
     "metodoPago": "Transacción bancaria",
@@ -161,7 +161,7 @@
   },
   {
     "venta": 24,
-    "producto": "689b3c92e97eb688fba7d7bc",
+    "producto": "68b5b100e2b7bd1eba00048b",
     "cliente": "689b3ca47d4db9b898739d0e",
     "fechaVenta": "2024-12-13T00:00:00.000Z",
     "metodoPago": "Tarjeta de débito",
@@ -169,7 +169,7 @@
   },
   {
     "venta": 25,
-    "producto": "689b3c92e97eb688fba7d7bd",
+    "producto": "68b5b100e2b7bd1eba00048c",
     "cliente": "689b3ca47d4db9b898739d0f",
     "fechaVenta": "2025-01-20T00:00:00.000Z",
     "metodoPago": "Tarjeta de crédito",
@@ -177,7 +177,7 @@
   },
   {
     "venta": 27,
-    "producto": "689b3c92e97eb688fba7d7bf",
+    "producto": "68b5b100e2b7bd1eba00048e",
     "cliente": "689b3ca47d4db9b898739d11",
     "fechaVenta": "2025-03-15T00:00:00.000Z",
     "metodoPago": "Efectivo",
@@ -185,7 +185,7 @@
   },
   {
     "venta": 28,
-    "producto": "689b3c92e97eb688fba7d7c0",
+    "producto": "68b5b100e2b7bd1eba00048f",
     "cliente": "689b3ca47d4db9b898739d12",
     "fechaVenta": "2025-04-03T00:00:00.000Z",
     "metodoPago": "Financiación",
@@ -193,7 +193,7 @@
   },
   {
     "venta": 30,
-    "producto": "689b3c92e97eb688fba7d7c2",
+    "producto": "68b5b100e2b7bd1eba000491",
     "cliente": "689b3ca47d4db9b898739d14",
     "fechaVenta": "2025-06-25T00:00:00.000Z",
     "metodoPago": "Tarjeta de débito",
