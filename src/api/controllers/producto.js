@@ -33,7 +33,8 @@ const getProductos = async (req, res) => {
       if (precioMax) {
         filtros.precioVenta.$lte = Number(precioMax);
       }
-      if (!(String(incluirVendidos).toLowerCase() === "true")) {
+      const incluirVendidos = req.query.incluirVendidos === 'true';
+      if (!incluirVendidos) {
         filtros.vendido = { $ne: true };
       }
     }
