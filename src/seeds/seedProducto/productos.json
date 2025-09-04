@@ -9,7 +9,8 @@
     "estado": "En reparación",
     "precioVenta": 92388,
     "fechaAdquisicion": "2023-01-29T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731180/Grove_TMS9000-2_fpmteq.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731180/Grove_TMS9000-2_fpmteq.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "dXc10152wZ20931",
@@ -21,7 +22,8 @@
     "estado": "Usado",
     "precioVenta": 173523,
     "fechaAdquisicion": "2023-05-02T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731180/Grove_TMS9000-2_fpmteq.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731180/Grove_TMS9000-2_fpmteq.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "kon88808Mw35384",
@@ -33,7 +35,8 @@
     "estado": "Operativo",
     "precioVenta": 88635,
     "fechaAdquisicion": "2023-10-07T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731182/Fassi_F1150R_srvz8r.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731182/Fassi_F1150R_srvz8r.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "YCn09897Jr16462",
@@ -45,7 +48,8 @@
     "estado": "Nuevo",
     "precioVenta": 156352,
     "fechaAdquisicion": "2023-10-24T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731180/Liebherr_LTF_1045-4.1_tptpbt.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731180/Liebherr_LTF_1045-4.1_tptpbt.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "atS02370IN72676",
@@ -57,7 +61,8 @@
     "estado": "En reparación",
     "precioVenta": 74881,
     "fechaAdquisicion": "2024-12-13T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/Zoomlion_ZTC800V_oreuj1.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/Zoomlion_ZTC800V_oreuj1.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "sVm24743cI68803",
@@ -69,7 +74,8 @@
     "estado": "Operativo",
     "precioVenta": 189674,
     "fechaAdquisicion": "2020-12-28T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731180/Liebherr_LTF_1045-4.1_tptpbt.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731180/Liebherr_LTF_1045-4.1_tptpbt.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "Bmz70233WW20802",
@@ -81,7 +87,8 @@
     "estado": "En reparación",
     "precioVenta": 186269,
     "fechaAdquisicion": "2023-06-07T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/XCMG_XCT100_zy9qgu.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/XCMG_XCT100_zy9qgu.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "BnQ82906nw61358",
@@ -93,7 +100,8 @@
     "estado": "Nuevo",
     "precioVenta": 135287,
     "fechaAdquisicion": "2025-05-20T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731179/National_Crane_NBT60XL_ugruzg.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731179/National_Crane_NBT60XL_ugruzg.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "ZHi19522MQ96601",
@@ -105,7 +113,8 @@
     "estado": "Dañado",
     "precioVenta": 160221,
     "fechaAdquisicion": "2021-04-09T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731180/Manitex_40124SHL_kcbctc.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731180/Manitex_40124SHL_kcbctc.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "LFE24454zn95591",
@@ -117,7 +126,8 @@
     "estado": "Usado",
     "precioVenta": 140858,
     "fechaAdquisicion": "2020-10-05T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/XCMG_XCT100_zy9qgu.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/XCMG_XCT100_zy9qgu.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "Pcy38673VN10677",
@@ -129,7 +139,8 @@
     "estado": "Operativo",
     "precioVenta": 167116,
     "fechaAdquisicion": "2024-03-25T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731179/National_Crane_NBT60XL_ugruzg.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731179/National_Crane_NBT60XL_ugruzg.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "lYA42548db96244",
@@ -141,7 +152,8 @@
     "estado": "En reparación",
     "precioVenta": 117685,
     "fechaAdquisicion": "2021-04-16T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/Dongfeng_DFH125_heeg9a.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/Dongfeng_DFH125_heeg9a.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "Aam85595Yv84506",
@@ -153,7 +165,8 @@
     "estado": "Dañado",
     "precioVenta": 130546,
     "fechaAdquisicion": "2022-09-20T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731181/Tadano_ATF_130G-5_xkm47t.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731181/Tadano_ATF_130G-5_xkm47t.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "AWA48273ZN88238",
@@ -165,7 +178,8 @@
     "estado": "Usado",
     "precioVenta": 173288,
     "fechaAdquisicion": "2020-09-05T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731183/Hiab_X-HiPro_858_luphhq.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731183/Hiab_X-HiPro_858_luphhq.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "CCW82791wK70073",
@@ -177,7 +191,8 @@
     "estado": "En reparación",
     "precioVenta": 136024,
     "fechaAdquisicion": "2020-08-31T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/Sany_STC800_duvgxi.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/Sany_STC800_duvgxi.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "NKB53710aA78114",
@@ -189,7 +204,8 @@
     "estado": "Nuevo",
     "precioVenta": 120147,
     "fechaAdquisicion": "2023-07-26T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731181/HMF_9520-K8_ijxonj.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731181/HMF_9520-K8_ijxonj.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "jFe56432ld78072",
@@ -201,7 +217,8 @@
     "estado": "Dañado",
     "precioVenta": 132102,
     "fechaAdquisicion": "2025-02-11T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731181/Tadano_ATF_130G-5_xkm47t.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731181/Tadano_ATF_130G-5_xkm47t.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "PPB90877GJ79490",
@@ -213,7 +230,8 @@
     "estado": "Dañado",
     "precioVenta": 84046,
     "fechaAdquisicion": "2024-08-16T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731181/HMF_9520-K8_ijxonj.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731181/HMF_9520-K8_ijxonj.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "yMb52512XD84426",
@@ -225,7 +243,8 @@
     "estado": "Usado",
     "precioVenta": 112797,
     "fechaAdquisicion": "2022-09-26T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731180/Manitex_40124SHL_kcbctc.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731180/Manitex_40124SHL_kcbctc.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "hTN89824sD94094",
@@ -237,7 +256,8 @@
     "estado": "Operativo",
     "precioVenta": 72147,
     "fechaAdquisicion": "2024-03-05T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/Zoomlion_ZTC800V_oreuj1.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/Zoomlion_ZTC800V_oreuj1.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "CYU70160gh69494",
@@ -249,7 +269,8 @@
     "estado": "Nuevo",
     "precioVenta": 72805,
     "fechaAdquisicion": "2020-09-18T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731180/Liebherr_LTF_1045-4.1_tptpbt.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731180/Liebherr_LTF_1045-4.1_tptpbt.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "qWQ78369td83160",
@@ -261,7 +282,8 @@
     "estado": "Nuevo",
     "precioVenta": 107010,
     "fechaAdquisicion": "2025-04-18T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/Sany_STC800_duvgxi.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/Sany_STC800_duvgxi.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "rmB43512Qy62185",
@@ -273,7 +295,8 @@
     "estado": "Nuevo",
     "precioVenta": 43213,
     "fechaAdquisicion": "2022-07-17T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731181/HMF_9520-K8_ijxonj.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731181/HMF_9520-K8_ijxonj.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "ucv31060lb21750",
@@ -285,7 +308,8 @@
     "estado": "Operativo",
     "precioVenta": 147373,
     "fechaAdquisicion": "2023-09-24T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/Zoomlion_ZTC800V_oreuj1.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/Zoomlion_ZTC800V_oreuj1.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "DSM23769sX01689",
@@ -297,7 +321,8 @@
     "estado": "En reparación",
     "precioVenta": 39174,
     "fechaAdquisicion": "2023-06-25T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731182/PM_100SP_bosome.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731182/PM_100SP_bosome.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "fhz54966rZ37390",
@@ -309,7 +334,8 @@
     "estado": "Nuevo",
     "precioVenta": 97459,
     "fechaAdquisicion": "2020-11-18T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/Zoomlion_ZTC800V_oreuj1.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/Zoomlion_ZTC800V_oreuj1.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "AIW16969EI78116",
@@ -321,7 +347,8 @@
     "estado": "Usado",
     "precioVenta": 76782,
     "fechaAdquisicion": "2022-11-28T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731180/Grove_TMS9000-2_fpmteq.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731180/Grove_TMS9000-2_fpmteq.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "MKE96062Hr11296",
@@ -333,7 +360,8 @@
     "estado": "Dañado",
     "precioVenta": 93090,
     "fechaAdquisicion": "2023-03-29T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731181/Tadano_ATF_130G-5_xkm47t.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731181/Tadano_ATF_130G-5_xkm47t.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "nJB62282WB93809",
@@ -345,7 +373,8 @@
     "estado": "En reparación",
     "precioVenta": 155083,
     "fechaAdquisicion": "2023-06-20T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731180/Terex_T_780_cjfvxq.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731180/Terex_T_780_cjfvxq.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "yzW46960Cx75382",
@@ -357,7 +386,8 @@
     "estado": "Dañado",
     "precioVenta": 148686,
     "fechaAdquisicion": "2021-06-25T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731179/National_Crane_NBT60XL_ugruzg.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731179/National_Crane_NBT60XL_ugruzg.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "IYg87474ei33650",
@@ -369,7 +399,8 @@
     "estado": "Operativo",
     "precioVenta": 82609,
     "fechaAdquisicion": "2023-05-04T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731181/Tadano_ATF_130G-5_xkm47t.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731181/Tadano_ATF_130G-5_xkm47t.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "Duh42491rB04149",
@@ -381,7 +412,8 @@
     "estado": "Usado",
     "precioVenta": 63960,
     "fechaAdquisicion": "2023-11-19T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731183/Effer_955_8S_JIB_6S_wydqqa.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731183/Effer_955_8S_JIB_6S_wydqqa.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "OdU15105Ak48937",
@@ -393,7 +425,8 @@
     "estado": "En reparación",
     "precioVenta": 176973,
     "fechaAdquisicion": "2022-02-21T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731181/Tadano_ATF_130G-5_xkm47t.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731181/Tadano_ATF_130G-5_xkm47t.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "wWs47636Pf01147",
@@ -405,7 +438,8 @@
     "estado": "Usado",
     "precioVenta": 169589,
     "fechaAdquisicion": "2024-06-09T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/FAW_J6_k7ktb4.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/FAW_J6_k7ktb4.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "MHB31818DM03614",
@@ -417,7 +451,8 @@
     "estado": "Nuevo",
     "precioVenta": 49147,
     "fechaAdquisicion": "2025-02-22T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731179/Link-Belt_HTC-86110_truer8.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731179/Link-Belt_HTC-86110_truer8.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "eZm28220ua62732",
@@ -429,7 +464,8 @@
     "estado": "Operativo",
     "precioVenta": 63832,
     "fechaAdquisicion": "2021-01-11T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731181/Tadano_ATF_130G-5_xkm47t.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731181/Tadano_ATF_130G-5_xkm47t.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "qLm37996Pz70592",
@@ -441,7 +477,8 @@
     "estado": "En reparación",
     "precioVenta": 179673,
     "fechaAdquisicion": "2021-03-24T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731181/Tadano_ATF_130G-5_xkm47t.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731181/Tadano_ATF_130G-5_xkm47t.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "DsN46485vP90649",
@@ -453,7 +490,8 @@
     "estado": "Nuevo",
     "precioVenta": 152051,
     "fechaAdquisicion": "2022-09-05T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731181/Tadano_ATF_130G-5_xkm47t.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731181/Tadano_ATF_130G-5_xkm47t.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "qPd68539qa61237",
@@ -465,7 +503,8 @@
     "estado": "Usado",
     "precioVenta": 164176,
     "fechaAdquisicion": "2022-08-04T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/Zoomlion_ZTC800V_oreuj1.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/Zoomlion_ZTC800V_oreuj1.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "YOW81295gK61622",
@@ -477,7 +516,8 @@
     "estado": "Usado",
     "precioVenta": 126358,
     "fechaAdquisicion": "2024-11-16T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731181/HMF_9520-K8_ijxonj.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731181/HMF_9520-K8_ijxonj.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "fNS77940kO61527",
@@ -489,7 +529,8 @@
     "estado": "Dañado",
     "precioVenta": 124464,
     "fechaAdquisicion": "2023-04-09T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731179/National_Crane_NBT60XL_ugruzg.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731179/National_Crane_NBT60XL_ugruzg.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "Yfh74663bO59006",
@@ -501,7 +542,8 @@
     "estado": "En reparación",
     "precioVenta": 175505,
     "fechaAdquisicion": "2020-08-02T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731179/Link-Belt_HTC-86110_truer8.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731179/Link-Belt_HTC-86110_truer8.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "EjQ65795Ri09658",
@@ -513,7 +555,8 @@
     "estado": "Operativo",
     "precioVenta": 88406,
     "fechaAdquisicion": "2021-03-02T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/Dongfeng_DFH125_heeg9a.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/Dongfeng_DFH125_heeg9a.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "laR53683sm96718",
@@ -525,7 +568,8 @@
     "estado": "Dañado",
     "precioVenta": 64116,
     "fechaAdquisicion": "2020-09-21T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/Zoomlion_ZTC800V_oreuj1.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/Zoomlion_ZTC800V_oreuj1.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "pzL46437Kr21878",
@@ -537,7 +581,8 @@
     "estado": "Operativo",
     "precioVenta": 121903,
     "fechaAdquisicion": "2024-02-03T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/FAW_J6_k7ktb4.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/FAW_J6_k7ktb4.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "CdW54328qO61350",
@@ -549,7 +594,8 @@
     "estado": "Nuevo",
     "precioVenta": 135436,
     "fechaAdquisicion": "2023-05-04T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731183/Hiab_X-HiPro_858_luphhq.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731183/Hiab_X-HiPro_858_luphhq.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "jkK73462mu74362",
@@ -561,7 +607,8 @@
     "estado": "Nuevo",
     "precioVenta": 45352,
     "fechaAdquisicion": "2023-11-25T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/FAW_J6_k7ktb4.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/FAW_J6_k7ktb4.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "TsA13484Qy92340",
@@ -573,7 +620,8 @@
     "estado": "Dañado",
     "precioVenta": 189366,
     "fechaAdquisicion": "2023-05-25T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731181/Tadano_ATF_130G-5_xkm47t.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731181/Tadano_ATF_130G-5_xkm47t.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "iqp32438im15606",
@@ -585,7 +633,8 @@
     "estado": "Usado",
     "precioVenta": 62853,
     "fechaAdquisicion": "2021-07-26T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/XCMG_XCT100_zy9qgu.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/XCMG_XCT100_zy9qgu.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "gJA40518HE12179",
@@ -597,7 +646,8 @@
     "estado": "Nuevo",
     "precioVenta": 149974,
     "fechaAdquisicion": "2022-02-07T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/Hino_500_Series_Tadano_s2htwh.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/Hino_500_Series_Tadano_s2htwh.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "ggr10858Sl83597",
@@ -609,7 +659,8 @@
     "estado": "En reparación",
     "precioVenta": 70204,
     "fechaAdquisicion": "2024-06-18T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/Kobelco_RK250-7_n2rjra.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/Kobelco_RK250-7_n2rjra.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "pAc40991qg22363",
@@ -621,7 +672,8 @@
     "estado": "Operativo",
     "precioVenta": 149192,
     "fechaAdquisicion": "2024-03-20T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731179/Link-Belt_HTC-86110_truer8.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731179/Link-Belt_HTC-86110_truer8.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "GTk16553gD91926",
@@ -633,7 +685,8 @@
     "estado": "Usado",
     "precioVenta": 58803,
     "fechaAdquisicion": "2022-02-24T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/Zoomlion_ZTC800V_oreuj1.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/Zoomlion_ZTC800V_oreuj1.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "aYI01476rg23580",
@@ -645,7 +698,8 @@
     "estado": "En reparación",
     "precioVenta": 36099,
     "fechaAdquisicion": "2022-07-17T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/Dongfeng_DFH125_heeg9a.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/Dongfeng_DFH125_heeg9a.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "xpH85749un21230",
@@ -657,7 +711,8 @@
     "estado": "Dañado",
     "precioVenta": 128321,
     "fechaAdquisicion": "2022-11-04T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/Hino_500_Series_Tadano_s2htwh.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/Hino_500_Series_Tadano_s2htwh.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "IQP02078tJ55131",
@@ -669,7 +724,8 @@
     "estado": "Nuevo",
     "precioVenta": 149779,
     "fechaAdquisicion": "2024-05-02T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731183/Hiab_X-HiPro_858_luphhq.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731183/Hiab_X-HiPro_858_luphhq.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "Qzj08967Fw40253",
@@ -681,7 +737,8 @@
     "estado": "En reparación",
     "precioVenta": 64733,
     "fechaAdquisicion": "2022-02-17T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/XCMG_XCT100_zy9qgu.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/XCMG_XCT100_zy9qgu.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "jhW26392He35311",
@@ -693,7 +750,8 @@
     "estado": "Nuevo",
     "precioVenta": 100647,
     "fechaAdquisicion": "2021-09-22T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731182/Fassi_F1150R_srvz8r.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731182/Fassi_F1150R_srvz8r.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "tfa66061Wm10084",
@@ -705,7 +763,8 @@
     "estado": "Operativo",
     "precioVenta": 100478,
     "fechaAdquisicion": "2025-05-02T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731180/Liebherr_LTF_1045-4.1_tptpbt.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731180/Liebherr_LTF_1045-4.1_tptpbt.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "dhG50525OL33408",
@@ -717,7 +776,8 @@
     "estado": "Operativo",
     "precioVenta": 161156,
     "fechaAdquisicion": "2021-11-16T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/Dongfeng_DFH125_heeg9a.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/Dongfeng_DFH125_heeg9a.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "cWL20156TO99983",
@@ -729,7 +789,8 @@
     "estado": "Operativo",
     "precioVenta": 199435,
     "fechaAdquisicion": "2022-02-14T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731180/Manitex_40124SHL_kcbctc.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731180/Manitex_40124SHL_kcbctc.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "HRn15031Yp34489",
@@ -741,7 +802,8 @@
     "estado": "Usado",
     "precioVenta": 50774,
     "fechaAdquisicion": "2024-02-18T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731183/Palfinger_PK_20000_tpqd0p.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731183/Palfinger_PK_20000_tpqd0p.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "JLR06678OL03186",
@@ -753,7 +815,8 @@
     "estado": "Dañado",
     "precioVenta": 91628,
     "fechaAdquisicion": "2020-11-11T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/Zoomlion_ZTC800V_oreuj1.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/Zoomlion_ZTC800V_oreuj1.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "IKn30105XV24220",
@@ -765,7 +828,8 @@
     "estado": "Operativo",
     "precioVenta": 184269,
     "fechaAdquisicion": "2022-05-18T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731182/PM_100SP_bosome.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731182/PM_100SP_bosome.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "fBX89379La78632",
@@ -777,7 +841,8 @@
     "estado": "Dañado",
     "precioVenta": 117434,
     "fechaAdquisicion": "2023-04-28T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731181/Tadano_ATF_130G-5_xkm47t.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731181/Tadano_ATF_130G-5_xkm47t.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "LmG03873ZN86741",
@@ -789,7 +854,8 @@
     "estado": "Usado",
     "precioVenta": 145412,
     "fechaAdquisicion": "2023-01-27T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/Sany_STC800_duvgxi.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/Sany_STC800_duvgxi.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "WSo96869Qo87610",
@@ -801,7 +867,8 @@
     "estado": "En reparación",
     "precioVenta": 81805,
     "fechaAdquisicion": "2022-10-10T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/Dongfeng_DFH125_heeg9a.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/Dongfeng_DFH125_heeg9a.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "ebk26172tZ84665",
@@ -813,7 +880,8 @@
     "estado": "Operativo",
     "precioVenta": 67869,
     "fechaAdquisicion": "2023-12-09T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731180/Manitex_40124SHL_kcbctc.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731180/Manitex_40124SHL_kcbctc.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "LKY75765wY09718",
@@ -825,7 +893,8 @@
     "estado": "Nuevo",
     "precioVenta": 78950,
     "fechaAdquisicion": "2021-10-07T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731182/PM_100SP_bosome.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731182/PM_100SP_bosome.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "zxX71986Rn14463",
@@ -837,7 +906,8 @@
     "estado": "En reparación",
     "precioVenta": 93554,
     "fechaAdquisicion": "2023-11-15T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731182/Fassi_F1150R_srvz8r.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731182/Fassi_F1150R_srvz8r.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "ReL88143GF56120",
@@ -849,7 +919,8 @@
     "estado": "En reparación",
     "precioVenta": 151572,
     "fechaAdquisicion": "2021-04-30T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/Kobelco_RK250-7_n2rjra.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/Kobelco_RK250-7_n2rjra.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "AhX05614zf19400",
@@ -861,7 +932,8 @@
     "estado": "Nuevo",
     "precioVenta": 142152,
     "fechaAdquisicion": "2022-04-25T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731181/HMF_9520-K8_ijxonj.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731181/HMF_9520-K8_ijxonj.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "wKP29841Pw65184",
@@ -873,7 +945,8 @@
     "estado": "Dañado",
     "precioVenta": 58947,
     "fechaAdquisicion": "2021-09-02T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731183/Hiab_X-HiPro_858_luphhq.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731183/Hiab_X-HiPro_858_luphhq.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "ixK95288lG89113",
@@ -885,7 +958,8 @@
     "estado": "En reparación",
     "precioVenta": 166283,
     "fechaAdquisicion": "2025-05-03T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731180/Manitex_40124SHL_kcbctc.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731180/Manitex_40124SHL_kcbctc.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "LCi40549ap81899",
@@ -897,7 +971,8 @@
     "estado": "En reparación",
     "precioVenta": 133174,
     "fechaAdquisicion": "2025-06-03T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731183/Hiab_X-HiPro_858_luphhq.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731183/Hiab_X-HiPro_858_luphhq.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "cXG46020Vk47847",
@@ -909,7 +984,8 @@
     "estado": "Nuevo",
     "precioVenta": 88486,
     "fechaAdquisicion": "2021-09-06T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731183/Palfinger_PK_20000_tpqd0p.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731183/Palfinger_PK_20000_tpqd0p.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "nGw71112BN18669",
@@ -921,7 +997,8 @@
     "estado": "Operativo",
     "precioVenta": 183386,
     "fechaAdquisicion": "2023-01-30T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731183/Effer_955_8S_JIB_6S_wydqqa.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731183/Effer_955_8S_JIB_6S_wydqqa.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "IKb01278Gp60300",
@@ -933,7 +1010,8 @@
     "estado": "Nuevo",
     "precioVenta": 124939,
     "fechaAdquisicion": "2024-11-20T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/Kobelco_RK250-7_n2rjra.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/Kobelco_RK250-7_n2rjra.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "yme53187Gg88591",
@@ -945,7 +1023,8 @@
     "estado": "Operativo",
     "precioVenta": 186222,
     "fechaAdquisicion": "2023-05-30T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/FAW_J6_k7ktb4.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/FAW_J6_k7ktb4.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "Erc33526jV08004",
@@ -957,7 +1036,8 @@
     "estado": "Nuevo",
     "precioVenta": 83178,
     "fechaAdquisicion": "2024-03-10T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731180/Terex_T_780_cjfvxq.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731180/Terex_T_780_cjfvxq.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "CdX39411ei81510",
@@ -969,7 +1049,8 @@
     "estado": "Usado",
     "precioVenta": 54625,
     "fechaAdquisicion": "2022-03-01T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731179/National_Crane_NBT60XL_ugruzg.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731179/National_Crane_NBT60XL_ugruzg.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "pIf38244GD08982",
@@ -981,7 +1062,8 @@
     "estado": "Operativo",
     "precioVenta": 99896,
     "fechaAdquisicion": "2022-06-22T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731182/Fassi_F1150R_srvz8r.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731182/Fassi_F1150R_srvz8r.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "iGq05738nP40988",
@@ -993,7 +1075,8 @@
     "estado": "Nuevo",
     "precioVenta": 113763,
     "fechaAdquisicion": "2022-08-10T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/FAW_J6_k7ktb4.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/FAW_J6_k7ktb4.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "HCn76200qm93346",
@@ -1005,7 +1088,8 @@
     "estado": "Nuevo",
     "precioVenta": 79327,
     "fechaAdquisicion": "2024-10-09T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731183/Palfinger_PK_20000_tpqd0p.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731183/Palfinger_PK_20000_tpqd0p.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "utH79233TJ69916",
@@ -1017,7 +1101,8 @@
     "estado": "Nuevo",
     "precioVenta": 65625,
     "fechaAdquisicion": "2021-07-07T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731182/Fassi_F1150R_srvz8r.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731182/Fassi_F1150R_srvz8r.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "pRt28319rK92233",
@@ -1029,7 +1114,8 @@
     "estado": "Usado",
     "precioVenta": 196008,
     "fechaAdquisicion": "2023-03-25T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731182/PM_100SP_bosome.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731182/PM_100SP_bosome.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "HBt78336pF06743",
@@ -1041,7 +1127,8 @@
     "estado": "Nuevo",
     "precioVenta": 113730,
     "fechaAdquisicion": "2020-07-24T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731180/Terex_T_780_cjfvxq.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731180/Terex_T_780_cjfvxq.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "QGC40608jF10143",
@@ -1053,7 +1140,8 @@
     "estado": "Dañado",
     "precioVenta": 144550,
     "fechaAdquisicion": "2022-07-06T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731179/National_Crane_NBT60XL_ugruzg.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731179/National_Crane_NBT60XL_ugruzg.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "jHN43543Cg88706",
@@ -1065,7 +1153,8 @@
     "estado": "Usado",
     "precioVenta": 95607,
     "fechaAdquisicion": "2024-02-05T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731181/HMF_9520-K8_ijxonj.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731181/HMF_9520-K8_ijxonj.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "oJp87471DZ43241",
@@ -1077,7 +1166,8 @@
     "estado": "Usado",
     "precioVenta": 135883,
     "fechaAdquisicion": "2025-06-26T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731180/Grove_TMS9000-2_fpmteq.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731180/Grove_TMS9000-2_fpmteq.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "fcA29354Zt19278",
@@ -1089,7 +1179,8 @@
     "estado": "Nuevo",
     "precioVenta": 141655,
     "fechaAdquisicion": "2023-07-22T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731180/Manitex_40124SHL_kcbctc.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731180/Manitex_40124SHL_kcbctc.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "mAU06183zy51597",
@@ -1101,7 +1192,8 @@
     "estado": "Dañado",
     "precioVenta": 81505,
     "fechaAdquisicion": "2024-12-27T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/Zoomlion_ZTC800V_oreuj1.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/Zoomlion_ZTC800V_oreuj1.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "hjt27395fT82424",
@@ -1113,7 +1205,8 @@
     "estado": "Dañado",
     "precioVenta": 38475,
     "fechaAdquisicion": "2021-07-05T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/Hino_500_Series_Tadano_s2htwh.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/Hino_500_Series_Tadano_s2htwh.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "dEY50148Yy07277",
@@ -1125,7 +1218,8 @@
     "estado": "En reparación",
     "precioVenta": 185013,
     "fechaAdquisicion": "2023-11-11T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731183/Effer_955_8S_JIB_6S_wydqqa.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731183/Effer_955_8S_JIB_6S_wydqqa.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "FbX99443Jb96784",
@@ -1137,7 +1231,8 @@
     "estado": "Operativo",
     "precioVenta": 139827,
     "fechaAdquisicion": "2021-04-08T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731182/PM_100SP_bosome.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731182/PM_100SP_bosome.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "Sru29054IW23382",
@@ -1149,7 +1244,8 @@
     "estado": "En reparación",
     "precioVenta": 190189,
     "fechaAdquisicion": "2024-07-02T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731180/Terex_T_780_cjfvxq.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731180/Terex_T_780_cjfvxq.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "nsn28875Gz13029",
@@ -1161,7 +1257,8 @@
     "estado": "Usado",
     "precioVenta": 120582,
     "fechaAdquisicion": "2021-11-15T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/FAW_J6_k7ktb4.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/FAW_J6_k7ktb4.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "WLo30011iF54134",
@@ -1173,7 +1270,8 @@
     "estado": "Nuevo",
     "precioVenta": 32700,
     "fechaAdquisicion": "2025-06-07T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/FAW_J6_k7ktb4.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/FAW_J6_k7ktb4.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "Pcr09896GZ81900",
@@ -1185,7 +1283,8 @@
     "estado": "En reparación",
     "precioVenta": 122283,
     "fechaAdquisicion": "2021-08-12T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/FAW_J6_k7ktb4.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/FAW_J6_k7ktb4.jpg",
+    "vendido": false
   },
   {
     "vehiculo": "jSE50250SH30230",
@@ -1197,6 +1296,7 @@
     "estado": "Usado",
     "precioVenta": 41521,
     "fechaAdquisicion": "2021-02-02T00:00:00.000Z",
-    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/FAW_J6_k7ktb4.jpg"
+    "imagen": "https://res.cloudinary.com/dzt0qtd8o/image/upload/v1753731178/FAW_J6_k7ktb4.jpg",
+    "vendido": false
   }
 ]
